@@ -1,0 +1,28 @@
+name: UpgradeLiving
+favicon: null
+layout_spectrum: 0.5016785589978099
+typography_spectrum: 0.3342823148705065
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3340276500675827
+  lightness: 0.5473350058309734
+  saturation: 0.5047267999034375
+  rhythmicContrast: 0.8091843265574425
+purpose: []
